@@ -1,4 +1,3 @@
-this the dil project
-<?php phpinfo();
-
+<?php
+echo "alksdj";
 
