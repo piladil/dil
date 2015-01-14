@@ -1,3 +1,3 @@
 <?php
-echo "alksdj";
+phpinfo();
 
