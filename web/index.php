@@ -1,5 +1,4 @@
-this is added
-phpinfo is  not woriking
+this is add
 
 <?php
 phpinfo();
